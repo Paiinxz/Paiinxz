@@ -3,7 +3,7 @@
 </p>
 
 <p>
-I am Gustavo, a young cybersecurity student at École 2600 and a SOC analyst.  
+I am Gustavo, a young cybersecurity student at École 2600 and a SOC analyst. <br>  
 Oh! And a CTF Player!  
 
 I am passionate about investigating and discovering new topics, so I am training hard to pursue a career I truly love.  
