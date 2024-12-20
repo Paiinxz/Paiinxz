@@ -13,7 +13,6 @@ With a strong passion for investigations, I place a greater focus on Forensics, 
 <p>
 <h2 align="center"> Self-Training</h2>
 </p>
-<br/>
 
 
 <strong>Root-Me (1165 pts) </strong> <br>
